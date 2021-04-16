@@ -3,6 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am Korinna Lindemann, a PhD Candidate at the Research Training Group DYNAMICS and the Hertie School, Berlin. 
+
+My dissertation revolves around the question of the political behaviour of immigrants in the arrival country. I am specifically focusing on electoral behaviour and political attitudes. My research interests include topics on migration, political behaviour and quantitative methods. 
+
+Prior to moving to Berlin, I completed my BA and MA both at the University of Zurich. In my bachelors, I majored in Communication and Media Studies and minored in Political Science. In Political Science masters, I focused on Democracy, Development and International Relations, as well as Political Data Journalism. I also was a visiting student at the University of Warsaw. During my masters I worked, inter alia, as a student assistant at the Democracy Barometer, was a tutor for applied quantitative methods and completed a research internship at the Chair of Political Methodology at the Department of Political Science.
+
+For any questions, collaboration or other inquiries (e.g. you cannot access a publication), feel free to get in touch!
+
