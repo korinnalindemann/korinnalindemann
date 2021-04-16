@@ -5,7 +5,7 @@ title: "About"
 
 Hi!
 
-I am Korinna Lindemann, a PhD Candidate at the Research Training Group DYNAMICS and the Hertie School, Berlin. 
+I am Korinna Lindemann, a PhD Candidate at the DFG-funded Research Training Group DYNAMICS and the Hertie School, Berlin. 
 
 My dissertation revolves around the question of the political behaviour of immigrants in the arrival country. I am specifically focusing on electoral behaviour and political attitudes. My research interests include topics on migration, political behaviour and quantitative methods. 
 
