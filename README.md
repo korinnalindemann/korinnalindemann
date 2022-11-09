@@ -1,4 +1,4 @@
-### This page is work in progress.
+I'm a PhD Candidate in Political Science in Berlin!
 
 <!--
 **korinnalindemann/korinnalindemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
