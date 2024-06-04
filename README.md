@@ -1,4 +1,3 @@
-I'm a PhD Candidate in Political Science
 
 <!--
 **korinnalindemann/korinnalindemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
